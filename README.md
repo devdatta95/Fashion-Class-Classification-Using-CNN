@@ -10,3 +10,6 @@ So we wanted to build kind of an app per se or a model. They can look at images 
 That's the whole objective.  
 
 The data again they are divided into 28 by 28 greyscale images and the target class is actually No. 1 out of 10 which is kind of a target label which can be categorized as you can see into either like maybe a shoe maybe like like pants. Basically these are the target classes. We have the t shirts trousers pullovers ankle boots sneakers and so on so forth.
+
+Download data set from here
+https://www.kaggle.com/zalando-research/fashionmnist
